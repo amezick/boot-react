@@ -74,5 +74,7 @@ buildNumber.properties
 .svn/
 
 
+/src/main/resources/static/built/
+/src/main/resources/static/node/
+/src/main/resources/static/node_modules/
 
-/build.properties
